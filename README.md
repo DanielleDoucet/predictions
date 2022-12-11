@@ -36,3 +36,7 @@ I also created a brief section on my husband and myself to include physical feat
 I used Jupiter Notebook to test out my python before adding it to the python file for the streamlit app. I worked with a small dataset to begin with and then layered in the data later.
 I created a new data frame within python to append the orignial data and the new user input to make it more interactive.
 I used matplotlib to create the visulizations. 
+
+### Streamlit app
+Click [here](https://danielledoucet-predictions-final-cu7k46.streamlit.app/) to access streamlit app
+or copy and paste this url: https://danielledoucet-predictions-final-cu7k46.streamlit.app/
