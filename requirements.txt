@@ -101,7 +101,6 @@ smmap==4.0.0
 soupsieve==2.3.2.post1
 stack-data==0.2.0
 statsmodels==0.13.5
-streamlit==1.15.1
 tenacity==8.1.0
 terminado==0.13.1
 testpath==0.6.0
