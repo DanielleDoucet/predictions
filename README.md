@@ -39,4 +39,4 @@ I used matplotlib to create the visulizations.
 
 ### Streamlit app
 Click [here](https://danielledoucet-predictions-final-cu7k46.streamlit.app/) to access streamlit app
-or copy and paste this url: https://danielledoucet-predictions-final-cu7k46.streamlit.app/
+or copy and paste this url into your browser: https://danielledoucet-predictions-final-cu7k46.streamlit.app/
