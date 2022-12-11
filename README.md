@@ -20,6 +20,8 @@ For this project I wanted to do descriptive statistics on the prediction data I 
 - Consistency- Initially there were some issues with data consistancy because of the gradual and informal collection process of the data itself. These were corrected in the final cleaning stages of this project.
 ### Identify variables to be used. 
  -I struggled a bit with which values to use, I wanted to use specific time but cleaning the time data was difficult so I defaulted to AM or PM instead. 
+### Formating Visulizations
+ -I wanted to ensure that different categories of data, such as hair and eye color had correctly corresponding colors to go with the categories. 
 ### Analysis
 -I used descriptive statistics to observe the data
 -The scatter plots use color defrienation to observce differences in guesses based on relationship as well as isolating the user input guess from others.
